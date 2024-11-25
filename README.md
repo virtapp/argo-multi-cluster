@@ -16,7 +16,6 @@ managed within the footer file
   <p align="center">
     🌩️ How to deploy applications in an multi-cluster environment distributed across multiple clouds using ArgoCd and its native operators.🌩️
     <br/>
-    <a href="https://github.com/ishuar/argocd-multi-cluster/issues"><strong>Report Bug</a></strong> or <a href="https://github.com/ishuar/argocd-multi-cluster/issues"><strong>Request Feature</a></strong>
     <br/>
     <br/>
   </p>
