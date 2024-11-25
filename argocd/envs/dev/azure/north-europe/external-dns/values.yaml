@@ -1,0 +1,27 @@
+## region and cloud specific values
+## fully isolated and only impact the cluster in the cloud provider region
+
+serviceAccount:
+  name: sa-external-dns
+  create: true
+  annotations:
+    azure.workload.identity/client-id: "d12d8cba-7304-4c96-9e1a-a34385298cfa" ## from terraform output client_ids command
+    azure.workload.identity/tenant-id: "0fe65e77-cff2-4f4e-b604-796a2bd02763"
+podLabels:
+  azure.workload.identity/use: "true"
+  region: north-europe
+  cloud: azure
+  app.kubernetes.io/part-of: dev-fleet
+serviceMonitor:
+  enabled: false
+provider: azure
+secretConfiguration:
+  enabled: true
+  mountPath: "/etc/kubernetes/"
+  data:
+    azure.json: |
+      {
+        "subscriptionId": "66f26fea-ff43-4f9a-bf6d-e2d18d696616",
+        "resourceGroup": "rg-argocd-cluster",
+        "useWorkloadIdentityExtension": true
+      }

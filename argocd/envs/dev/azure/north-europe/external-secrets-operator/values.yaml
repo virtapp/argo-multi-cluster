@@ -1,0 +1,16 @@
+## region and cloud specific values
+## fully isolated and only impact the cluster in the cloud provider region
+
+externalsecrets:
+  fullnameOverride: external-secrets-operator
+  serviceAccount:
+    name: sa-external-secrets-operator
+    create: true
+    annotations:
+      azure.workload.identity/client-id: "e17c6f19-479f-40a2-9349-8e14f5c7c78b" ## from terraform output client_ids command
+      azure.workload.identity/tenant-id: "0fe65e77-cff2-4f4e-b604-796a2bd02763"
+  serviceMonitor:
+    enabled: false
+clusterSecretStore:
+  azurekv:
+    vaultUrl: https://superuniquekv001.vault.azure.net/
