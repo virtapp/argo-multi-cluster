@@ -4,13 +4,10 @@
 managed within the footer file
 -->
 
-
 <div id="top"></div>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ishuar/argocd-multi-cluster">
-    <img src="https://github.com/ishuar/argocd-multi-cluster/blob/main/assets/AKS-Argocd-control-plane-with-multi-remote-clusters.drawio.svg" alt="Logo">
   </a>
   <h1 align="center"><strong>Deploy Applications in Multi-Cluster with ArgoCD</strong></h1>
   <p align="center">
@@ -21,11 +18,21 @@ managed within the footer file
   </p>
 </div>
 
+
+<div id="top"></div>
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/ishuar/argocd-multi-cluster">
+    <img src="https://github.com/ishuar/argocd-multi-cluster/blob/main/assets/AKS-Argocd-control-plane-with-multi-remote-clusters.drawio.svg" alt="Logo">
+  </a>
+    <br/>
+    <br/>
+    <br/>
+  </p>
+</div>
+
 # Introduction
-
-This repository serves as an example for using [ArgoCD](https://argo-cd.readthedocs.io/en/stable/) with multi-cluster deployments in different cloud providers.
-
-## Background Knowledge
 
 Before diving into the repository, it's important to understand the following concepts:
 
