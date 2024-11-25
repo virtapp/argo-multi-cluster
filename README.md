@@ -9,8 +9,8 @@ managed within the footer file
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ishuar/argocd-multi-cluster">
-    <img src="https://github.com/ishuar/argocd-multi-cluster/blob/main/assets/AKS-Argocd-control-plane-with-multi-remote-clusters.drawio.svg" alt="Logo">
+  <a href="https://github.com/virtapp/argocd-multi-cluster">
+    <img src="https://github.com/virtapp/argocd-multi-cluster/blob/main/assets/AKS-Argocd-control-plane-with-multi-remote-clusters.drawio.svg" alt="Logo">
   </a>
   <h1 align="center"><strong>Deploy Applications in Multi-Cluster with ArgoCD</strong></h1>
   <p align="center">
@@ -127,35 +127,3 @@ Contributions are what make the open source community such an amazing place to l
 
 If you have any suggestion that would make this project better, feel free to  fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement" with your suggestion.
 
-
-**⭐️ Don't forget to give the project a star! Thanks again! ⭐️**
-
-<!-- LICENSE -->
-## License
-
-Released under [MIT](/LICENSE) by [@ishuar](https://github.com/ishuar).
-
-<!-- CONTACT -->
-## Contact
-
-- 👯 [LinkedIn](https://linkedin.com/in/ishuar)
-
-<p align="right"><a href="#top">Back To Top ⬆️</a></p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-url]: https://github.com/ishuar/argocd-multi-cluster/graphs/contributors
-[contributors-shield]: https://img.shields.io/github/contributors/ishuar/argocd-multi-cluster?style=for-the-badge
-
-[forks-url]: https://github.com/ishuar/argocd-multi-cluster/network/members
-[forks-shield]: https://img.shields.io/github/forks/ishuar/argocd-multi-cluster?style=for-the-badge
-
-[stars-url]: https://github.com/ishuar/argocd-multi-cluster/stargazers
-[stars-shield]: https://img.shields.io/github/stars/ishuar/argocd-multi-cluster?style=for-the-badge
-
-[issues-url]: https://github.com/ishuar/argocd-multi-cluster/issues
-[issues-shield]: https://img.shields.io/github/issues/ishuar/argocd-multi-cluster?style=for-the-badge
-
-[license-url]: https://github.com/ishuar/argocd-multi-cluster/blob/main/LICENSE
-[license-shield]: https://img.shields.io/github/license/ishuar/argocd-multi-cluster?style=for-the-badge
