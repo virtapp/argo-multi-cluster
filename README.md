@@ -9,7 +9,7 @@ managed within the footer file
 <br />
 <div align="center">
   </a>
-  <h1 align="center"><strong>Deploy Applications in Multi-Cluster with ArgoCD</strong></h1>
+  <h1 align="center"><strong>Azure Deploy Applications in Multi-Cluster with ArgoCD</strong></h1>
   <p align="center">
     🌩️ How to deploy applications in an multi-cluster environment distributed across multiple clouds using ArgoCd and its native operators.🌩️
     <br/>
