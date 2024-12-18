@@ -24,7 +24,7 @@ managed within the footer file
 <br />
 <div align="center">
   <a href="https://github.com/yevgenis-shapiro/argocd-multi-cluster">
-    <img src="https://github.com/yevgenis-shapiro/argocd-multi-cluster/main/assets/AKS-Argocd-control-plane-with-multi-remote-clusters.drawio.svg" alt="Logo">
+    ![image](https://github.com/user-attachments/assets/a0b8f050-e127-4a5c-84df-2aa0be4f6e89)
   </a>
     <br/>
     <br/>
