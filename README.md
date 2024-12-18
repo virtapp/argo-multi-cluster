@@ -9,7 +9,7 @@ managed within the footer file
 <br />
 <div align="center">
   </a>
-  <h1 align="center"><strong>Azure Deploy Applications in Multi-Cluster with ArgoCD</strong></h1>
+  <h1 align="center"><strong>Terraform Deploy Applications in Multi-Cluster with ArgoCD</strong></h1>
   <p align="center">
     🌩️ How to deploy applications in an multi-cluster environment distributed across multiple clouds using ArgoCd and its native operators.🌩️
     <br/>
@@ -19,18 +19,7 @@ managed within the footer file
 </div>
 
 
-<div id="top"></div>
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/ishuar/argocd-multi-cluster">
-    <img src="https://github.com/ishuar/argocd-multi-cluster/blob/main/assets/AKS-Argocd-control-plane-with-multi-remote-clusters.drawio.svg" alt="Logo">
-  </a>
-    <br/>
-    <br/>
-    <br/>
-  </p>
-</div>
+![image](https://github.com/user-attachments/assets/a0b8f050-e127-4a5c-84df-2aa0be4f6e89)
 
 # Introduction
 
