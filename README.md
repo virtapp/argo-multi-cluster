@@ -115,11 +115,3 @@ The repository is organized as follows:
 │   │   └── templates
 └── terraform                         ## just for this repo context , terraform configs for the infra provisioning
 ```
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have any suggestion that would make this project better, feel free to  fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement" with your suggestion.
-
