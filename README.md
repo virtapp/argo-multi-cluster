@@ -23,8 +23,8 @@ managed within the footer file
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ishuar/argocd-multi-cluster">
-    <img src="https://github.com/ishuar/argocd-multi-cluster/blob/main/assets/AKS-Argocd-control-plane-with-multi-remote-clusters.drawio.svg" alt="Logo">
+  <a href="https://github.com/yevgenis-shapiro/argocd-multi-cluster">
+    <img src="https://github.com/yevgenis-shapiro/argocd-multi-cluster/blob/main/assets/AKS-Argocd-control-plane-with-multi-remote-clusters.drawio.svg" alt="Logo">
   </a>
     <br/>
     <br/>
